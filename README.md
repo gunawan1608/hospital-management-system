@@ -111,13 +111,13 @@ Hospital Management System adalah aplikasi desktop yang dirancang untuk memudahk
 <div align="center">
 
 ### 🏠 Dashboard Utama
-![Dashboard](https://via.placeholder.com/800x500/4A90E2/FFFFFF?text=Dashboard+Screenshot)
+![Dashboard](screenshots/dashboard.png)
 
-### 👤 Manajemen Pasien
-![Patient Management](https://via.placeholder.com/800x500/50C878/FFFFFF?text=Patient+Management)
+### 👤 Tampilan Register
+![Patient Management](screenshots/register.png)
 
-### 📊 Reports & Analytics
-![Reports](https://via.placeholder.com/800x500/FF6B6B/FFFFFF?text=Reports+%26+Analytics)
+### 📊 Manajemen Pasien
+![Reports](screenshots/patient.png)
 
 </div>
 
