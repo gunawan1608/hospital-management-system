@@ -1,0 +1,32 @@
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\bin\Debug\Hospital Management System (Pak Wanto).exe.config
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\bin\Debug\Hospital Management System (Pak Wanto).exe
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\bin\Debug\Hospital Management System (Pak Wanto).pdb
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\bin\Debug\Guna.UI2.dll
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital Management System (Pak Wanto).csproj.AssemblyReference.cache
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.Form1.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.HomeControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.Login.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.Main_Form.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.Properties.Resources.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.Register.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital Management System (Pak Wanto).csproj.GenerateResource.cache
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital Management System (Pak Wanto).csproj.CoreCompileInputs.cache
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital.A5CDCC1C.Up2Date
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital Management System (Pak Wanto).exe
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital Management System (Pak Wanto).pdb
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.PatientControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.AppointmentControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.StaffControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.DoctorControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.NurseControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.DepartmentControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.InpatientControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.InpatientControl2.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.RoomsControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.PharmacyControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.MedicineControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.PrescriptionControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.DetailsControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.PaymentControl.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.MedicalRecord.resources
+C:\Users\tamag\source\repos\Hospital Management System (Pak Wanto)\Hospital Management System (Pak Wanto)\obj\Debug\Hospital_Management_System__Pak_Wanto_.DiagnosesControl.resources
